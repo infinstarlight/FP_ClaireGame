@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{273284A4-4194-9102-EEAF-DEA1D6BB6FB9}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "TakeNotes",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
