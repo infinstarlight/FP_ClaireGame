@@ -1,14 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.19",
+	"EngineAssociation": "{273284A4-4194-9102-EEAF-DEA1D6BB6FB9}",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"LinuxNoEditor",
