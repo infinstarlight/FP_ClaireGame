@@ -3,6 +3,12 @@
 	"EngineAssociation": "{273284A4-4194-9102-EEAF-DEA1D6BB6FB9}",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"LinuxNoEditor",
